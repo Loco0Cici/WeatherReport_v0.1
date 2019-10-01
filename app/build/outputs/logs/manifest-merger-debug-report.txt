@@ -1,0 +1,126 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/reese/Documents/GitHub/WeatherApp/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/reese/Documents/GitHub/WeatherApp/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/reese/Documents/GitHub/WeatherApp/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/reese/Documents/GitHub/WeatherApp/app/src/main/AndroidManifest.xml:2:1-30:12
+MERGED from [org.litepal.android:core:1.4.1] /Users/reese/.gradle/caches/transforms-1/files-1.1/core-1.4.1.aar/0bbe538243f6cbda239a37a324da39c7/AndroidManifest.xml:2:1-16:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/reese/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/cb25641bb6fa2ab371169fa458b803f3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/reese/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/1b0200542a7bc7ad311bb0d53ab8d461/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/reese/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/80a1261c07aabd5936a0095049177334/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/reese/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/e70120b790667a0e082d7df2e999f6a7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/reese/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/98aad465f61fe5b6360fb39a32877d21/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/reese/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/2f867ff720ce281b03f2344c8ffcf9cc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/reese/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/b6fd1a0da0abdb0266f0f1efbf0b0b6c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/reese/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/8f59a4178c596dbdcdf93988773a603d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/reese/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/4f3f56ca38142996e8d016b9f22879e9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/reese/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/ee82e50d4740b5947c5c0d0c1de86841/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/reese/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/fb52f7bfe0e486eafc5b35924128f43b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/reese/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/dbbe9660893082767cca50a53b7b74c4/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/reese/Documents/GitHub/WeatherApp/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/reese/Documents/GitHub/WeatherApp/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/reese/Documents/GitHub/WeatherApp/app/src/main/AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from /Users/reese/Documents/GitHub/WeatherApp/app/src/main/AndroidManifest.xml:3:5-43
+		INJECTED from /Users/reese/Documents/GitHub/WeatherApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/reese/Documents/GitHub/WeatherApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/reese/Documents/GitHub/WeatherApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/reese/Documents/GitHub/WeatherApp/app/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /Users/reese/Documents/GitHub/WeatherApp/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/reese/Documents/GitHub/WeatherApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/reese/Documents/GitHub/WeatherApp/app/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /Users/reese/Documents/GitHub/WeatherApp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/reese/Documents/GitHub/WeatherApp/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/reese/Documents/GitHub/WeatherApp/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/reese/Documents/GitHub/WeatherApp/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /Users/reese/Documents/GitHub/WeatherApp/app/src/main/AndroidManifest.xml:7:5-28:19
+MERGED from [org.litepal.android:core:1.4.1] /Users/reese/.gradle/caches/transforms-1/files-1.1/core-1.4.1.aar/0bbe538243f6cbda239a37a324da39c7/AndroidManifest.xml:11:5-14:19
+MERGED from [org.litepal.android:core:1.4.1] /Users/reese/.gradle/caches/transforms-1/files-1.1/core-1.4.1.aar/0bbe538243f6cbda239a37a324da39c7/AndroidManifest.xml:11:5-14:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/reese/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/1b0200542a7bc7ad311bb0d53ab8d461/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/reese/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/1b0200542a7bc7ad311bb0d53ab8d461/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /Users/reese/Documents/GitHub/WeatherApp/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /Users/reese/Documents/GitHub/WeatherApp/app/src/main/AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from /Users/reese/Documents/GitHub/WeatherApp/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /Users/reese/Documents/GitHub/WeatherApp/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /Users/reese/Documents/GitHub/WeatherApp/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /Users/reese/Documents/GitHub/WeatherApp/app/src/main/AndroidManifest.xml:14:9-40
+	android:name
+		ADDED from /Users/reese/Documents/GitHub/WeatherApp/app/src/main/AndroidManifest.xml:8:9-54
+activity#com.example.reese.weatherapp.MainActivity
+ADDED from /Users/reese/Documents/GitHub/WeatherApp/app/src/main/AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from /Users/reese/Documents/GitHub/WeatherApp/app/src/main/AndroidManifest.xml:15:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/reese/Documents/GitHub/WeatherApp/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/reese/Documents/GitHub/WeatherApp/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Users/reese/Documents/GitHub/WeatherApp/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/reese/Documents/GitHub/WeatherApp/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /Users/reese/Documents/GitHub/WeatherApp/app/src/main/AndroidManifest.xml:19:27-74
+activity#com.example.reese.weatherapp.WeatherActivity
+ADDED from /Users/reese/Documents/GitHub/WeatherApp/app/src/main/AndroidManifest.xml:22:9-53
+	android:name
+		ADDED from /Users/reese/Documents/GitHub/WeatherApp/app/src/main/AndroidManifest.xml:22:19-50
+service#com.example.reese.weatherapp.service.AutoUpdateService
+ADDED from /Users/reese/Documents/GitHub/WeatherApp/app/src/main/AndroidManifest.xml:24:9-27:47
+	android:enabled
+		ADDED from /Users/reese/Documents/GitHub/WeatherApp/app/src/main/AndroidManifest.xml:26:13-35
+	android:exported
+		ADDED from /Users/reese/Documents/GitHub/WeatherApp/app/src/main/AndroidManifest.xml:27:13-36
+	android:name
+		ADDED from /Users/reese/Documents/GitHub/WeatherApp/app/src/main/AndroidManifest.xml:25:13-54
+uses-sdk
+INJECTED from /Users/reese/Documents/GitHub/WeatherApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/reese/Documents/GitHub/WeatherApp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/reese/Documents/GitHub/WeatherApp/app/src/main/AndroidManifest.xml
+MERGED from [org.litepal.android:core:1.4.1] /Users/reese/.gradle/caches/transforms-1/files-1.1/core-1.4.1.aar/0bbe538243f6cbda239a37a324da39c7/AndroidManifest.xml:7:5-9:41
+MERGED from [org.litepal.android:core:1.4.1] /Users/reese/.gradle/caches/transforms-1/files-1.1/core-1.4.1.aar/0bbe538243f6cbda239a37a324da39c7/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/reese/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/cb25641bb6fa2ab371169fa458b803f3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/reese/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/cb25641bb6fa2ab371169fa458b803f3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/reese/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/1b0200542a7bc7ad311bb0d53ab8d461/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/reese/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/1b0200542a7bc7ad311bb0d53ab8d461/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/reese/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/80a1261c07aabd5936a0095049177334/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/reese/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/80a1261c07aabd5936a0095049177334/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/reese/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/e70120b790667a0e082d7df2e999f6a7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/reese/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/e70120b790667a0e082d7df2e999f6a7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/reese/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/98aad465f61fe5b6360fb39a32877d21/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/reese/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/98aad465f61fe5b6360fb39a32877d21/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/reese/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/2f867ff720ce281b03f2344c8ffcf9cc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/reese/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/2f867ff720ce281b03f2344c8ffcf9cc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/reese/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/b6fd1a0da0abdb0266f0f1efbf0b0b6c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/reese/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/b6fd1a0da0abdb0266f0f1efbf0b0b6c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/reese/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/8f59a4178c596dbdcdf93988773a603d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/reese/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/8f59a4178c596dbdcdf93988773a603d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/reese/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/4f3f56ca38142996e8d016b9f22879e9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/reese/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/4f3f56ca38142996e8d016b9f22879e9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/reese/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/ee82e50d4740b5947c5c0d0c1de86841/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/reese/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/ee82e50d4740b5947c5c0d0c1de86841/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/reese/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/fb52f7bfe0e486eafc5b35924128f43b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/reese/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/fb52f7bfe0e486eafc5b35924128f43b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/reese/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/dbbe9660893082767cca50a53b7b74c4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/reese/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/dbbe9660893082767cca50a53b7b74c4/AndroidManifest.xml:20:5-44
+INJECTED from /Users/reese/Documents/GitHub/WeatherApp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/reese/Documents/GitHub/WeatherApp/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/reese/Documents/GitHub/WeatherApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/reese/Documents/GitHub/WeatherApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/reese/Documents/GitHub/WeatherApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/reese/Documents/GitHub/WeatherApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/reese/Documents/GitHub/WeatherApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/reese/Documents/GitHub/WeatherApp/app/src/main/AndroidManifest.xml
